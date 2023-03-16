@@ -4,7 +4,7 @@
 Ceci est un script basique en Javascript pour le projet Voltaire, afin de faire augmenter le temps d'utilisation sur un compte.
 
 # Utilisation 
-il existe plusieurs scripts selon les types de niveaux, utiliser le bon script selon le niveau ensuite, rendez-vous dans un niveau et ouvrer votre console (F12) insérez le script qui se trouve dans l'index js dans la console et laissez-le tourner. vous n'êtes pas obligé à rester sur la page pour que cela fonctionne mais ne pas fermer la page.
+il existe plusieurs scripts selon les types de niveaux, utiliser le bon script selon le niveau ensuite, rendez-vous dans un niveau et ouvrer votre console (F12) insérez le bon script dans la console et laissez-le tourner. vous n'êtes pas obligé de rester sur la page pour que cela fonctionne mais ne fermer pas la page.
 
 # Scenario 1
 
