@@ -11,4 +11,9 @@ il existe plusieurs scripts selon les types de niveaux, utiliser le bon script s
 ![niveau real](https://user-images.githubusercontent.com/102300908/225648703-8a2e4ba5-7f16-4663-87e0-afb0e5419474.png)
 utiliser clicker1.js pour les niveaux avec uniquement le boutons suivants.
 
+# Scenario 2
+
+![scenario 2](https://user-images.githubusercontent.com/102300908/225706827-84681c86-f578-4214-945f-3ac3795b3351.png)
+utiliser le clicker2.js pour les niveaux ou il faut cliquer sur des "mots".
+
 
