@@ -9,7 +9,7 @@ il existe plusieurs scripts selon les types de niveaux, utiliser le bon script s
 # Scenario 1
 
 ![niveau real](https://user-images.githubusercontent.com/102300908/225648703-8a2e4ba5-7f16-4663-87e0-afb0e5419474.png)
-utiliser clicker1.js pour les niveaux avec uniquement le boutons suivants.
+utiliser clicker1.js pour les niveaux avec uniquement le bouton "valider ma reponse" au depart.
 
 # Scenario 2
 
