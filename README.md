@@ -1,19 +1,48 @@
-# Voltaire Hourglass
-![heure projet](https://user-images.githubusercontent.com/102300908/225643953-0255845c-c226-4d82-9911-613dedfc3b9a.png)
+# Description
 
-Ceci est un script basique en Javascript pour le projet Voltaire, afin de faire augmenter le temps d'utilisation sur un compte.
+![](https://iili.io/HXpyvte.gif)
 
-## Utilisation 
-il existe plusieurs scripts selon les types de niveaux, utiliser le bon script selon le niveau ensuite, rendez-vous dans un niveau et ouvrer votre console (F12) insérez le bon script dans la console et laissez-le tourner. vous n'êtes pas obligé de rester sur la page pour que cela fonctionne mais ne fermer pas la page.
+![](https://iili.io/HhHCNRe.png)
 
-## Scenario 1
+Voltaire Hourglass est un script JavaScript permettant d'augmenter le temps d'utilisation d'un compte Voltaire. Le script est conçu pour les utilisateurs qui souhaitent maximiser leur temps d'utilisation sur la plateforme.
 
-![niveau real](https://user-images.githubusercontent.com/102300908/225648703-8a2e4ba5-7f16-4663-87e0-afb0e5419474.png)
-utiliser clicker1.js pour les niveaux avec uniquement le bouton "valider ma reponse" au depart.
+Le script fonctionne en utilisant des techniques d'automatisation pour simuler l'interaction de l'utilisateur avec les différents niveaux de la plateforme Voltaire. Les scripts sont disponibles en fonction du type de niveau que l'utilisateur souhaite compléter.
 
-## Scenario 2
+# Utilisation
 
-![scenario 2](https://user-images.githubusercontent.com/102300908/225706827-84681c86-f578-4214-945f-3ac3795b3351.png)
-utiliser le clicker2.js pour les niveaux ou il faut cliquer sur des "mots".
+Pour utiliser Voltaire Hourglass, il est nécessaire de suivre les étapes suivantes :
 
+1. Télécharger ou cloner le projet à partir de Github.
+2. Ouvrir le navigateur Web et se connecter à la plateforme Voltaire.
+3. Sélectionner le niveau que l'on souhaite compléter.
+4. Ouvrir la console du navigateur en appuyant sur la touche F12.
+5. Insérer le script correspondant au niveau dans la console du navigateur.
+6. Laisser le script tourner en arrière-plan.
 
+# Scripts
+
+Le projet contient deux scripts en fonction du type de niveau que l'utilisateur souhaite compléter :
+
+- **`clicker1.js`**
+
+Le script clicker1.js est conçu pour les niveaux qui ne nécessitent qu'un bouton "VALIDER MA RÉPONSE" pour compléter le niveau :
+
+![](https://iili.io/HXy5yj1.png)
+
+- **`clicker2.js`**
+
+Le script clicker2.js est conçu pour les niveaux qui nécessitent de cliquer sur des mots pour compléter le niveau :
+
+![](https://iili.io/HXy1EMP.png)
+
+# Technologies utilisées
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+# Contribution
+
+Les contributions au projet sont les bienvenues et encouragées. Pour signaler des problèmes, ouvrir des problèmes dans le référentiel Github. Pour contribuer au projet, ouvrir une demande d'extraction dans le référentiel Github. Si vous trouvez ce script utile, n'hésitez pas à donner une étoile au projet pour nous montrer votre soutien !
+
+# Avertissement
+
+Ce script est fourni à titre éducatif seulement. L'utilisation de ce script pour automatiser des actions sur la plateforme Voltaire est interdite et pourrait entraîner la suspension ou la résiliation du compte. L'auteur de ce script ne sera pas tenu responsable de toute utilisation abusive de ce script qui enfreint les termes d'utilisation de la plateforme Voltaire ou toute loi applicable. L'utilisateur assume l'entière responsabilité de l'utilisation de ce script.
