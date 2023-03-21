@@ -39,10 +39,3 @@ Le script clicker2.js est conçu pour les niveaux qui nécessitent de cliquer su
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-# Contribution
-
-Les contributions au projet sont les bienvenues et encouragées. Pour signaler des problèmes, ouvrir des problèmes dans le référentiel Github. Pour contribuer au projet, ouvrir une demande d'extraction dans le référentiel Github. Si vous trouvez ce script utile, n'hésitez pas à donner une étoile au projet pour nous montrer votre soutien !
-
-# Avertissement
-
-Ce script est fourni à titre éducatif seulement. L'utilisation de ce script pour automatiser des actions sur la plateforme Voltaire est interdite et pourrait entraîner la suspension ou la résiliation du compte. L'auteur de ce script ne sera pas tenu responsable de toute utilisation abusive de ce script qui enfreint les termes d'utilisation de la plateforme Voltaire ou toute loi applicable. L'utilisateur assume l'entière responsabilité de l'utilisation de ce script.
