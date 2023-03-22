@@ -16,11 +16,16 @@ Pour utiliser Voltaire Hourglass, il est nécessaire de suivre les étapes suiva
 2. Ouvrir le navigateur Web et se connecter à la plateforme Voltaire.
 3. Sélectionner le niveau que l'on souhaite compléter.
 4. Ouvrir la console du navigateur en appuyant sur la touche F12.
-5. Insérer le script correspondant au niveau dans la console du navigateur.
+5. Insérer le script dans la console du navigateur.
 6. Laisser le script tourner en arrière-plan.
 
 
+
+
 ![](https://iili.io/HXy5yj1.png)
+
+
+
 
 
 # Technologies utilisées
