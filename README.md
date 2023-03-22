@@ -19,21 +19,9 @@ Pour utiliser Voltaire Hourglass, il est nécessaire de suivre les étapes suiva
 5. Insérer le script correspondant au niveau dans la console du navigateur.
 6. Laisser le script tourner en arrière-plan.
 
-# Scripts
-
-Le projet contient deux scripts en fonction du type de niveau que l'utilisateur souhaite compléter :
-
-- **`clicker1.js`**
-
-Le script clicker1.js est conçu pour les niveaux qui ne nécessitent qu'un bouton "VALIDER MA RÉPONSE" pour compléter le niveau :
 
 ![](https://iili.io/HXy5yj1.png)
 
-- **`clicker2.js`**
-
-Le script clicker2.js est conçu pour les niveaux qui nécessitent de cliquer sur des mots pour compléter le niveau :
-
-![](https://iili.io/HXy1EMP.png)
 
 # Technologies utilisées
 
